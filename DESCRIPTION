@@ -1,0 +1,22 @@
+Package: demopkg
+Type: Package
+Title: Demo Package for the Training
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Daniel", "Sabanes Bove",
+      email = "dbove@its.jnj.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package illustrates how we can build a package easily.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Language: en-US
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
