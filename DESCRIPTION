@@ -20,5 +20,5 @@ Suggests:
     spelling,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/danielinteractive/demopkg
+URL: https://github.com/danielinteractive/demopkg, https://danielinteractive.github.io/demopkg/
 BugReports: https://github.com/danielinteractive/demopkg/issues

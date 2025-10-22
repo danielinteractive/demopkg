@@ -1,0 +1,9 @@
+url: https://danielinteractive.github.io/demopkg/
+template:
+  bootstrap: 5
+
+reference:
+  - title: "Functions"
+    contents:
+      - print_hello
+      - sum_two_numbers
